@@ -1,6 +1,6 @@
 // Define o nome e a quantidade de experiência (XP) do herói
 let nomeHeroi = "Arlequina";
-let xpDoHeroi = 1250; // Você pode mudar isso para outros resultados
+let xpDoHeroi = 5200; // Você pode mudar isso para outros resultados
 
 // Utilize uma estrutura de decisão para determinar o nível
 var nivelDoHeroi;
